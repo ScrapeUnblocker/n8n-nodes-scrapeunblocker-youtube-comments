@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-youtube-comments.youTubeCommentsScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-comments#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-youtube-comments#readme"
+			}
+		]
+	},
+	"alias": [
+		"youtube",
+		"comments",
+		"video comments",
+		"sentiment",
+		"audience",
+		"engagement",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
